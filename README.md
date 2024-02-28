@@ -1,4 +1,5 @@
-# Project-Hotel-Data-Ananlytics
+# AtliQ Hotels Data Analysis Project [Python]
+
 As part of my data analysis project at Atliq Hotel, I conducted a comprehensive analysis to derive valuable insights and enhance decision-making processes within the hospitality industry. Leveraging advanced data analytics techniques, I explored various aspects of hotel operations, uncovering trends and patterns that contribute to a deeper understanding of business performance.
 
 1. Room Category Occupancy:
